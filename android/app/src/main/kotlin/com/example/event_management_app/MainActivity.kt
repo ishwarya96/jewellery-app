@@ -1,0 +1,10 @@
+package com.example.event_management_app
+
+
+import io.flutter.embedding.android.FlutterActivity
+import io.flutter.embedding.android.FlutterFragmentActivity
+
+
+
+class MainActivity: FlutterFragmentActivity() {
+}
